@@ -6,7 +6,7 @@
 import os,requests,threading,telebot
 from telebot import *
 
-BOT_TOKEN = ""7428561280:AAF4dBhYPOzMa8KB2Nq4oVKbbPmMwoBRDBs
+BOT_TOKEN = 7428561280:AAF4dBhYPOzMa8KB2Nq4oVKbbPmMwoBRDBs
 bot = 6573552662
 
 @bot.message_handler(commands=['start'])
